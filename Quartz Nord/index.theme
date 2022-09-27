@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Quartz Nord
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Quartz Nord
+MetacityTheme=Quartz Nord
+IconTheme=Marwaita-Light
+CursorTheme=Marwaita
+CursorSize=24
